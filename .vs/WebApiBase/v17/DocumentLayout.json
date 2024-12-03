@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Treinamento\\c#\\WebApiBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|c:\\treinamento\\c#\\webapibase\\webapibase\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|solutionrelative:webapibase\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|c:\\treinamento\\c#\\webapibase\\webapibase\\services\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|solutionrelative:webapibase\\services\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|c:\\treinamento\\c#\\webapibase\\webapibase\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|solutionrelative:webapibase\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|c:\\treinamento\\c#\\webapibase\\webapibase\\services\\funcionarioservice\\ifuncionariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|solutionrelative:webapibase\\services\\funcionarioservice\\ifuncionariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|c:\\treinamento\\c#\\webapibase\\webapibase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1F96A9-AFFB-4111-983E-83F83F71B9B2}|WebApiBase\\WebApiBase.csproj|solutionrelative:webapibase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "WebApiBase\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "WebApiBase\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:59:40.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Services\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeDocumentMoniker": "WebApiBase\\Services\\FuncionarioService\\FuncionarioService.cs",
+              "ToolTip": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Services\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeToolTip": "WebApiBase\\Services\\FuncionarioService\\FuncionarioService.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAqwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:07:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFuncionarioInterface.cs",
+              "DocumentMoniker": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Services\\FuncionarioService\\IFuncionarioInterface.cs",
+              "RelativeDocumentMoniker": "WebApiBase\\Services\\FuncionarioService\\IFuncionarioInterface.cs",
+              "ToolTip": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Services\\FuncionarioService\\IFuncionarioInterface.cs",
+              "RelativeToolTip": "WebApiBase\\Services\\FuncionarioService\\IFuncionarioInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:08:24.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "WebApiBase\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "WebApiBase\\Models\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:12:48.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiBase\\Program.cs",
+              "ToolTip": "C:\\Treinamento\\c#\\WebApiBase\\WebApiBase\\Program.cs",
+              "RelativeToolTip": "WebApiBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:03:35.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
